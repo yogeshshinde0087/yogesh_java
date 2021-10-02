@@ -9,6 +9,8 @@ public class Main {
 		 System.out.println("Trying Git commands");
 	      
 		 System.out.println("For practice purpose");
+		 
+		 System.out.println("Test newly created branch");
       
 		}	
 
