@@ -1,4 +1,4 @@
-package javaallproject;
+package trial_folder;
 
 public class Main {
 

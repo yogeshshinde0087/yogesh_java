@@ -13,10 +13,10 @@ public class MyUtils {
     }
  
     public static void sum2numbers(int firstArg, int SecondArg) {
-        System.out.println("Sum method" + (firstArg+SecondArg));
+        System.out.println("Sum method"  + (firstArg+SecondArg));
     }
     
-    public int add10(int SomeArgu) {
+    public static int add10(int SomeArgu) {
     	int result= SomeArgu+10;
     return result;
     }
